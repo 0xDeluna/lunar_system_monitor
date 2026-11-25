@@ -13,7 +13,7 @@ You are more than welcome to find bugs and make PRs. You are also allowed to for
 It is not available on KDE store but you can install via command line
 
 ```sh
-git clone https://github.com/Doctorthe113/lunar_system_monitor.git
+git clone https://github.com/0xDeluna/lunar_system_monitor.git
 cd lunar_system_monitor
 cp -r ./package ~/.local/share/plasma/plasmoids/org.kde.plasma.lunarsystemmonitor
 ```
